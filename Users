@@ -1,0 +1,44 @@
+{
+  {
+    "ID" : 1,
+    "Name" : "Beyonce",
+    "Surname" : "Knowles",
+    "Email" : "beyonce.knowles@gmail.com",
+    "Password" : "Beyonce",
+    "Role" : "applicant",
+    "Key" : null,
+    "Registered" : true;
+    "TimeRegistered" : null,
+    "LinkVisits" : 1,
+    "TimeLoggedIn" : null,
+    "TimeLoggedOut" : null
+  },
+  {
+    "ID" : 2,
+    "Name" : "Rihanna",
+    "Surname" : "Fenty",
+    "Email" : "rihanna.fenty@gmail.com",
+    "Password" : "Rihanna",
+    "Role" : "developer",
+    "Key" : d1,
+    "Registered" : true;
+    "TimeRegistered" : null,
+    "LinkVisits" : 1,
+    "TimeLoggedIn" : null,
+    "TimeLoggedOut" : null
+    },
+  {
+    "ID" : 3,
+    "Name" : "Kim",
+    "Surname" : "Kardashian",
+    "Email" : "kim.kardashian@gmail.com",
+    "Password" : "Kim",
+    "Role" : "hr",
+    "Key" : h1,
+    "Registered" : true;
+    "TimeRegistered" : null,
+    "LinkVisits" : 1,
+    "TimeLoggedIn" : null,
+    "TimeLoggedOut" : null
+  }
+}
