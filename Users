@@ -20,7 +20,7 @@
     "Email" : "rihanna.fenty@gmail.com",
     "Password" : "Rihanna",
     "Role" : "developer",
-    "Key" : d1,
+    "Key" : developer1,
     "Registered" : true;
     "TimeRegistered" : null,
     "LinkVisits" : 1,
@@ -34,7 +34,7 @@
     "Email" : "kim.kardashian@gmail.com",
     "Password" : "Kim",
     "Role" : "hr",
-    "Key" : h1,
+    "Key" : hr1,
     "Registered" : true;
     "TimeRegistered" : null,
     "LinkVisits" : 1,
