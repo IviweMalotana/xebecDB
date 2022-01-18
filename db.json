@@ -8,7 +8,7 @@
       "Password" : "Beyonce",
       "Role" : "applicant",
       "Key" : null,
-      "Registered" : true;
+      "Registered" : true,
       "TimeRegistered" : null,
       "LinkVisits" : 1,
       "TimeLoggedIn" : null,
@@ -22,7 +22,7 @@
       "Password" : "Rihanna",
       "Role" : "developer",
       "Key" : developer1,
-      "Registered" : true;
+      "Registered" : true,
       "TimeRegistered" : null,
       "LinkVisits" : 1,
       "TimeLoggedIn" : null,
