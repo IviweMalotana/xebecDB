@@ -9,10 +9,10 @@
       "Role" : "applicant",
       "Key" : null,
       "Registered" : true,
-      "TimeRegistered" : null,
+      "TimeRegistered" : "",
       "LinkVisits" : 1,
-      "TimeLoggedIn" : null,
-      "TimeLoggedOut" : null
+      "TimeLoggedIn" : "",
+      "TimeLoggedOut" : ""
     },  
     {
       "ID" : 2,
@@ -23,10 +23,10 @@
       "Role" : "developer",
       "Key" : "developer1",
       "Registered" : true,
-      "TimeRegistered" : null,
+      "TimeRegistered" : "",
       "LinkVisits" : 1,
-      "TimeLoggedIn" : null,
-      "TimeLoggedOut" : null
+      "TimeLoggedIn" : "",
+      "TimeLoggedOut" : ""
     },
     {
       "ID" : 3,
@@ -35,12 +35,12 @@
       "Email" : "iviwe@nebula.co.za",
       "Password" : "Kim",
       "Role" : "hr",
-      "Key" : "hr1",
+      "Key" : "",
       "Registered" : true,
-      "TimeRegistered" : null,
+      "TimeRegistered" : "",
       "LinkVisits" : 0,
-      "TimeLoggedIn" : null,
-      "TimeLoggedOut" : null
+      "TimeLoggedIn" : "",
+      "TimeLoggedOut" : ""
     }
   ]
 }
