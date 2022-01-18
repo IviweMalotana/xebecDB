@@ -9,10 +9,7 @@
       "Role" : "applicant",
       "Key" : null,
       "Registered" : true,
-      "TimeRegistered" : "",
-      "LinkVisits" : 1,
-      "TimeLoggedIn" : "",
-      "TimeLoggedOut" : ""
+      "LinkVisits" : 1
     },  
     {
       "ID" : 2,
@@ -23,10 +20,7 @@
       "Role" : "developer",
       "Key" : "developer1",
       "Registered" : true,
-      "TimeRegistered" : "",
-      "LinkVisits" : 1,
-      "TimeLoggedIn" : "",
-      "TimeLoggedOut" : ""
+      "LinkVisits" : 1
     },
     {
       "ID" : 3,
@@ -37,10 +31,7 @@
       "Role" : "hr",
       "Key" : "",
       "Registered" : true,
-      "TimeRegistered" : "",
-      "LinkVisits" : 0,
-      "TimeLoggedIn" : "",
-      "TimeLoggedOut" : ""
+      "LinkVisits" : 0
     }
   ]
 }
