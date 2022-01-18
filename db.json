@@ -38,7 +38,7 @@
       "Key" : "hr1",
       "Registered" : true,
       "TimeRegistered" : null,
-      "LinkVisits" : 1,
+      "LinkVisits" : 0,
       "TimeLoggedIn" : null,
       "TimeLoggedOut" : null
     }
