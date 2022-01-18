@@ -1,44 +1,46 @@
 {
-  {
-    "ID" : 1,
-    "Name" : "Beyonce",
-    "Surname" : "Knowles",
-    "Email" : "iviwe@nebula.co.za",
-    "Password" : "Beyonce",
-    "Role" : "applicant",
-    "Key" : null,
-    "Registered" : true;
-    "TimeRegistered" : null,
-    "LinkVisits" : 1,
-    "TimeLoggedIn" : null,
-    "TimeLoggedOut" : null
-  },
-  {
-    "ID" : 2,
-    "Name" : "Rihanna",
-    "Surname" : "Fenty",
-    "Email" : "iviwe@nebula.co.za",
-    "Password" : "Rihanna",
-    "Role" : "developer",
-    "Key" : developer1,
-    "Registered" : true;
-    "TimeRegistered" : null,
-    "LinkVisits" : 1,
-    "TimeLoggedIn" : null,
-    "TimeLoggedOut" : null
-    },
-  {
-    "ID" : 3,
-    "Name" : "Kim",
-    "Surname" : "Kardashian",
-    "Email" : "iviwe@nebula.co.za",
-    "Password" : "Kim",
-    "Role" : "hr",
-    "Key" : hr1,
-    "Registered" : true;
-    "TimeRegistered" : null,
-    "LinkVisits" : 1,
-    "TimeLoggedIn" : null,
-    "TimeLoggedOut" : null
-  }
+  "Users":[
+    {
+      "ID" : 1,
+      "Name" : "Beyonce",
+      "Surname" : "Knowles",
+      "Email" : "iviwe@nebula.co.za",
+      "Password" : "Beyonce",
+      "Role" : "applicant",
+      "Key" : null,
+      "Registered" : true;
+      "TimeRegistered" : null,
+      "LinkVisits" : 1,
+      "TimeLoggedIn" : null,
+      "TimeLoggedOut" : null
+    },  
+    {
+      "ID" : 2,
+      "Name" : "Rihanna",
+      "Surname" : "Fenty",
+      "Email" : "iviwe@nebula.co.za",
+      "Password" : "Rihanna",
+      "Role" : "developer",
+      "Key" : developer1,
+      "Registered" : true;
+      "TimeRegistered" : null,
+      "LinkVisits" : 1,
+      "TimeLoggedIn" : null,
+      "TimeLoggedOut" : null
+      },
+    {
+      "ID" : 3,
+      "Name" : "Kim",
+      "Surname" : "Kardashian",
+      "Email" : "iviwe@nebula.co.za",
+      "Password" : "Kim",
+      "Role" : "hr",
+      "Key" : hr1,
+      "Registered" : true;
+      "TimeRegistered" : null,
+      "LinkVisits" : 1,
+      "TimeLoggedIn" : null,
+      "TimeLoggedOut" : null
+    }
+  ]
 }
