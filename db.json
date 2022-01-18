@@ -36,7 +36,7 @@
       "Password" : "Kim",
       "Role" : "hr",
       "Key" : hr1,
-      "Registered" : true;
+      "Registered" : true,
       "TimeRegistered" : null,
       "LinkVisits" : 1,
       "TimeLoggedIn" : null,
