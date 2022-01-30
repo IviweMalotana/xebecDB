@@ -33,5 +33,57 @@
       "Registered" : true,
       "LinkVisits" : 0
     }
+  ],
+  "Jobs":[
+    {
+      "ID": 1,
+      "Name": "Junior C# Developer",
+      "Company":"Acronis",
+      "Location":"Free State",
+      "Type": "Part-time",
+      "Description":"A well-established property solutions company in the Free State area is looking for a skilled C# .Net Developer to join their talented and experienced team. This could be the perfect opportunity for the new year!",
+      "DateAdvertised": "05 January 2022",
+      "ApplyByDate":"01 February 2022" 
+    },
+    {
+      "ID": 2,
+      "Name": "Senior C# Developer",
+      "Company":"1Nebula",
+      "Location":"Western Cape",
+      "Type": "Full-time",
+      "Description":"Seeking an experienced C# Developer in Cape Town for a Well-Known IT Company. Experience with the following technologies: C#, .NET Core, SQL, JavaScript, MS SQL, CSS, HTML, SVN, ASP.NET MVC, RESTful Web Services",
+      "DateAdvertised": "06 January 2022",
+      "ApplyByDate":"02 February 2022" 
+    },
+    {
+      "ID": 3,
+      "Name": "Technical Consultant",
+      "Company":"Nigel Frank",
+      "Location":"Western Cape",
+      "Type": "Full-time",
+      "Description":"Consultants are responsible for ensuring that key relationships with our clients are developed and maintained; assisting them from project inception to 'go live. They gather customer requirements by liaising with business teams to produce the right specifications, before configuring our product to meet the needs of our clients and managing the full development cycle and subsequent implementation.",
+      "DateAdvertised": "06 January 2022",
+      "ApplyByDate":"04 February 2022" 
+    },
+    {
+      "ID": 4,
+      "Name": "Digital Designer",
+      "Company":"Catch+Release",
+      "Location":"Gauteng",
+      "Type": "Part-time",
+      "Description":"Catch + Release is looking to hire a junior to mid Digital Designer. The ideal candidate should have a strong portfolio showing design ability and be able to work in Sketch.",
+      "DateAdvertised": "07 January 2022",
+      "ApplyByDate":"01 February 2022" 
+    },
+    {
+      "ID": 5,
+      "Name": "IT Manager",
+      "Company":"RedBull",
+      "Location":"Eastern Cape",
+      "Type": "Contract",
+      "Description":"As the local IT Manager you will be accountable for providing IT support & services aligned with Red Bull’s local and global IT strategy. You will capture local business strategies, determine the organization’s technology needs, and enable strategies by providing state-of-the-art IT services and support.",
+      "DateAdvertised": "08 January 2022",
+      "ApplyByDate":"10 February 2022" 
+    },
   ]
 }
